@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=921
+
+If you are used to opening zillions buffers like I am,
+if furthermore, the files you edit have same first letter,
+you might have faced a poor buffer menu with just
+one submenu title displaying this first letter
+and all your file names in this same submenu pane.
+You're puzzled about that ?
+I was. I searched for a script doing a nicer job. None :(
+I wrote it myself. Not very quickly wrote, not very quick
+at execution on my 350 Mhz ppc, BUT you should try
+it to see if more balanced hierarchy fits your need.
+Hey this is free ;)
+Screenshots of the difference on a silly example
+are available there : http://lauranger.free.fr/bufmenu_two.html
